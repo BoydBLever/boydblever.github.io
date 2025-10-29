@@ -1,3 +1,3 @@
 # boydblever.github.io
 
-[Pixel Painter React App](https://boydblever.github.io/pixel-painter/)
+[Pixel Perfect React App](https://boydblever.github.io/pixel-perfect/)
